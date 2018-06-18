@@ -11,7 +11,5 @@ Shows you what's going on around the school. See your day at a glance: lessons, 
 
 ### Widgets
 Widgets provide a quick overview of relevant summary information for your school– click a widget to see more detail
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTIyNDgzMiw2ODE5NDUwNywxNzAwNj
-I4Mjg4LDkyMDIwNDYzMl19
--->
+
+[Go Back](02_Navigation.md)
